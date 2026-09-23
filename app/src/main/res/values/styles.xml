@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.FoodLik" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/foodlik_primary</item>
+        <item name="colorPrimaryVariant">@color/foodlik_primary_dark</item>
+        <item name="colorOnPrimary">@color/foodlik_on_primary</item>
+        <item name="colorSecondary">@color/foodlik_tertiary</item>
+        <item name="colorSurface">@color/foodlik_surface</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">@color/foodlik_background</item>
+        <item name="android:navigationBarColor">@color/foodlik_background</item>
+        <item name="android:windowBackground">@color/foodlik_background</item>
+    </style>
+
+    <style name="Widget.FoodLik.BottomNavigation.ActiveIndicator" parent="">
+        <item name="android:color">@color/foodlik_primary_container</item>
+        <item name="android:width">56dp</item>
+        <item name="android:height">32dp</item>
+        <item name="marginHorizontal">0dp</item>
+        <item name="shapeAppearance">@style/ShapeAppearance.FoodLik.BottomNavigation.ActiveIndicator</item>
+    </style>
+
+    <style name="ShapeAppearance.FoodLik.BottomNavigation.ActiveIndicator" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+    </style>
+
+    <style name="ShapeAppearanceOverlay.FoodLik.RoundedImage" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">12dp</item>
+    </style>
+</resources>

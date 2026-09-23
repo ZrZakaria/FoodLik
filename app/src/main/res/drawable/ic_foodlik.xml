@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- App Icon: Red Knife and Yellow Fork -->
+
+    <!-- Red Knife (Brand Primary) -->
+    <path
+        android:fillColor="@color/foodlik_primary"
+        android:pathData="M62,20c4.5,0 7.5,7 7.5,14v46h-5v-35h-8V20h5.5z" />
+
+    <!-- Yellow Fork (Brand Accent) -->
+    <path
+        android:fillColor="@color/foodlik_primary_container"
+        android:pathData="M38,20v15h2V20h2v15h2V20h2v15c0,4.5 -3.5,8 -8,8v37h-5V43c-4.5,0 -8,-3.5 -8,-8V20h2z" />
+
+    <!-- Simple platform shadow/base -->
+    <path
+        android:fillAlpha="0.05"
+        android:fillColor="#000000"
+        android:pathData="M50,85m-30,0a30,5 0,1 1,60 0a30,5 0,1 1,-60 0" />
+</vector>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="foodlik_background">#F8F8F8</color>
+    <color name="foodlik_surface">#FFFFFF</color>
+    <color name="foodlik_surface_variant">#F2F2F2</color>
+    <color name="foodlik_surface_container">#FFFFFF</color>
+
+    <!-- Primary: Red -->
+    <color name="foodlik_primary">#FF4B3A</color>
+    <color name="foodlik_on_primary">#FFFFFF</color>
+    <color name="foodlik_primary_dark">#D43F33</color>
+
+    <!-- Accent: Yellow -->
+    <color name="foodlik_primary_container">#FFC700</color>
+    <color name="foodlik_on_primary_container">#2B2100</color>
+
+    <!-- Muted states -->
+    <color name="foodlik_secondary">#333333</color>
+    <color name="foodlik_secondary_container">#FFF9E5</color>
+    <color name="foodlik_tertiary">#FF4B3A</color>
+    <color name="foodlik_tertiary_container">#FFDAD6</color>
+
+    <!-- Status Colors -->
+    <color name="foodlik_success">#2E7D32</color>
+    <color name="foodlik_success_container">#D1E7DD</color>
+    <color name="foodlik_on_success_container">#0A3622</color>
+    <color name="foodlik_warning">#B45309</color>
+    <color name="foodlik_warning_container">#FFF3CD</color>
+    <color name="foodlik_on_warning_container">#664D03</color>
+    <color name="foodlik_error">#BA1A1A</color>
+    <color name="foodlik_error_container">#F9DEDC</color>
+    <color name="foodlik_on_error_container">#410002</color>
+
+    <!-- Text and Contrast -->
+    <color name="foodlik_text">#000000</color>
+    <!-- Dark text for unselected states to be clearly legible -->
+    <color name="foodlik_text_muted">#333333</color>
+
+    <!-- Darker grey for placeholders and icons -->
+    <color name="foodlik_hint">#757575</color>
+    <color name="foodlik_placeholder">#757575</color>
+    <color name="foodlik_icon_secondary">#757575</color>
+
+    <color name="foodlik_outline">#888888</color>
+    <color name="foodlik_outline_strong">#444444</color>
+
+    <!-- Background pattern color - extremely subtle grey to minimize saturation -->
+    <color name="foodlik_pattern_color">#06000000</color>
+</resources>

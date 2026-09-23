@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="foodlik_screen_padding">20dp</dimen>
+    <dimen name="foodlik_card_radius">24dp</dimen>
+    <dimen name="foodlik_pill_radius">999dp</dimen>
+    <dimen name="foodlik_touch_target">56dp</dimen>
+    <dimen name="foodlik_title_size">34sp</dimen>
+    <dimen name="foodlik_body_size">18sp</dimen>
+</resources>
